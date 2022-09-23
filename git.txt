@@ -1,0 +1,6 @@
+Github is a platform where your code can be shared with other people with ease, every little detail of your code is maintain down to the last element.
+The following steps are a guide to how you can push your code to github without any hassle.
+First being, Creating your code in a specific folder of your own choice
+Then you open your command prompt to push your code into your local git respository
+Make sure you are connected to the internet if you finally want to push your code to github
+After pushing your code into github, you can share yoyr code with whosoever you want by just copying the url, you can also make your code open source, if you are open to people making positive altercations to your code.
